@@ -24,3 +24,7 @@ runners: experimental scripts
 The appendix documents are listed here.
 
 [GitHub - fceval/dcfuzzer-appendix: Online appendix for the paper of DCFUZZER](https://github.com/fceval/dcfuzzer-appendix)
+
+The detail of new real bugs found by DCFUZZER is shown here.
+
+[GitHub - fceval/dcfuzzer-realbugs: detailed information of new real bugs found by dcfuzzer](https://github.com/fceval/dcfuzzer-realbugs)
