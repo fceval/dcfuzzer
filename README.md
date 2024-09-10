@@ -28,3 +28,6 @@ The appendix documents are listed here.
 The detail of new real bugs found by DCFUZZER is shown here.
 
 [GitHub - fceval/dcfuzzer-realbugs: detailed information of new real bugs found by dcfuzzer](https://github.com/fceval/dcfuzzer-realbugs)
+
+We have made much effort to test almost all of the benchmark programs from FuzzBench, Magma, Binutils, Unibench and AFLGO. It is still an open issue to make effective and fair benchmark datasets for diverse fuzzing scenarios.
+![](https://github.com/fceval/dcfuzzer-main/blob/d2efc4271117b20491e47f71c7e6002f7da53afc/programstested.png)
