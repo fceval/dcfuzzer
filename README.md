@@ -5,9 +5,9 @@ In this paper, directed collaborative fuzzing is proposed to improve the robustn
 
 Source code is publicized in this project.
 
-Due the space limitation, big data files would be stored at Google drive instead with the same directory structures.
+Due the space limitation, big data files would be stored at Google drive instead with the same directory structures. Please merge them before making use of this project.
 
-![](https://github.com/fceval/dcfuzzer-main/blob/a2b191ddbc4351cf803a934610efe929650abd98/directory.png)
+![](https://github.com/fceval/dcfuzzer-main/blob/13f39240be7d071799539c24be8f0288bb97e589/aboutdirectory.png)
 
 aaadcfuzzer: compiling scripts.
 
@@ -29,5 +29,5 @@ The detail of new real bugs found by DCFUZZER is shown here.
 
 [GitHub - fceval/dcfuzzer-realbugs: detailed information of new real bugs found by dcfuzzer](https://github.com/fceval/dcfuzzer-realbugs)
 
-We have made much effort to test almost all of the benchmark programs from FuzzBench, Magma, Binutils, Unibench and AFLGO. It is still an open issue to make effective and fair benchmark datasets for diverse fuzzing scenarios.
-![](https://github.com/fceval/dcfuzzer-main/blob/d2efc4271117b20491e47f71c7e6002f7da53afc/programstested.png)
+We have made much effort to test almost all of the benchmark programs from FuzzBench, Magma, Binutils, Unibench and AFLGO as shown in [about-effort-benchmarks.pdf](https://github.com/fceval/dcfuzzer-main/blob/13f39240be7d071799539c24be8f0288bb97e589/about-effort-benchmarks.pdf).  In the source code project, we would provide the scripts for adapting 5 representative fuzzers and about 40 programs in an unified way. However, it is still an open issue to make effective and fair benchmark datasets for diverse fuzzing scenarios.
+![](https://github.com/fceval/dcfuzzer-main/blob/13f39240be7d071799539c24be8f0288bb97e589/aboutprogramstested.png)
